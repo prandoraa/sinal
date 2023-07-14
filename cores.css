@@ -63,6 +63,15 @@ h2{
     
 }
 
+.poste{
+    margin-left: 49.3%;
+    display: block;
+    background: rgb(149, 149, 149);
+    width: 10px;
+    height: 350px;
+
+}
+
 footer{
     background: gray;
     color: #ffffff;
